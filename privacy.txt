@@ -1,55 +1,68 @@
-Política de privacidad de Brothex
+Privacy Policy
 
-Última actualización: 1 de julio de 2026
+Last updated: July 1, 2026
 
-Esta Política de privacidad describe cómo Brothex, a cargo de Gaston Infante, trata la información relacionada con los usuarios de sus aplicaciones, juegos y servicios publicados en Google Play y otras plataformas.
+Brothex ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our games and applications, including Ram Truck, available on Google Play and other platforms.
 
-Esta política se aplica a las aplicaciones y juegos publicados por Brothex, incluyendo Ram Truck.
+Information We Collect
 
-1. Información que recopilamos
+Ram Truck does not collect, store, process, or share any personal information.
 
-Actualmente, Brothex no recopila, almacena, vende ni comparte datos personales de los usuarios a través de Ram Truck.
+The game does not require users to:
 
-Nuestros juegos no requieren crear una cuenta, no solicitan nombre, correo electrónico, ubicación, contactos, cámara, micrófono, archivos personales ni otra información sensible del dispositivo.
+Create an account
+Provide a name or email address
+Share their location
+Grant access to contacts, photos, camera, microphone, or personal files
 
-2. Datos del dispositivo y permisos
+We do not collect any information that can be used to identify you.
 
-Ram Truck puede utilizar funciones locales del dispositivo, como vibración o haptics, únicamente para mejorar la experiencia de juego al producir feedback durante impactos o eventos del juego.
+Device Permissions
 
-El uso de vibración no implica la recopilación, almacenamiento ni transmisión de datos personales.
+Ram Truck may use your device's vibration or haptic feedback feature to improve gameplay by providing tactile feedback during in-game events.
 
-3. Servicios de terceros
+This feature operates entirely on your device and does not collect, transmit, or store any personal information.
 
-Nuestros juegos pueden ser distribuidos a través de plataformas de terceros, como Google Play. Estas plataformas pueden recopilar información de acuerdo con sus propias políticas de privacidad.
+Third-Party Services
 
-Brothex no controla las prácticas de privacidad de Google Play u otros servicios externos.
+Our games may be distributed through third-party platforms such as Google Play. These platforms may collect information according to their own privacy policies.
 
-Actualmente, Ram Truck no integra anuncios, analíticas, compras dentro de la aplicación, inicio de sesión, servidores propios ni SDKs de terceros destinados a recopilar datos personales.
+Brothex does not control or have access to information collected by Google Play or other platform providers.
 
-Si en el futuro agregamos anuncios, analíticas, compras, servicios online u otras funciones que impliquen recopilación de datos, actualizaremos esta política y las declaraciones correspondientes en Google Play.
+At this time, Ram Truck does not use:
 
-4. Retención y eliminación de datos
+Advertising SDKs
+Analytics services
+In-app purchases
+User accounts or authentication
+Cloud storage
+Proprietary online servers
+Third-party SDKs that collect personal information
 
-Como Brothex no recopila datos personales a través de Ram Truck, no conserva datos personales de los usuarios del juego.
+If these features are added in the future, this Privacy Policy and our Google Play Data Safety disclosures will be updated before the changes take effect.
 
-Si un usuario se comunica con Brothex por correo electrónico, podremos conservar el mensaje y la dirección de correo únicamente para responder la consulta. El usuario puede solicitar la eliminación de esa comunicación escribiendo al contacto indicado abajo.
+Data Retention
 
-5. Seguridad
+Because we do not collect personal information through Ram Truck, we do not retain any user data.
 
-Brothex procura limitar la recopilación de información al mínimo necesario. En los casos en que el usuario contacte directamente a Brothex, la información será tratada con medidas razonables de protección.
+If you contact us by email, we may retain your email address and message only for the purpose of responding to your inquiry. You may request deletion of this correspondence at any time.
 
-6. Privacidad de menores
+Children's Privacy
 
-Los juegos de Brothex no están dirigidos específicamente a niños ni recopilan intencionalmente datos personales de menores.
+Our games are not specifically directed to children and do not knowingly collect personal information from children.
 
-7. Cambios en esta política
+Security
 
-Brothex puede actualizar esta Política de privacidad para reflejar cambios en sus juegos, servicios o requisitos legales. La versión actualizada será publicada en esta misma URL con una nueva fecha de actualización.
+Although Ram Truck does not collect personal information, we take reasonable measures to protect any information voluntarily provided when you contact us.
 
-8. Contacto
+Changes to This Privacy Policy
 
-Para consultas sobre privacidad, podés comunicarte con:
+We may update this Privacy Policy from time to time. Any changes will be posted on this page along with the updated "Last updated" date.
+
+Contact
+
+If you have any questions about this Privacy Policy, please contact:
 
 Brothex
-Responsable: Gaston Infante
+Contact: Gaston Infante
 Email: gastoninfante08@gmail.com
